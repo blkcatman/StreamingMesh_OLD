@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: df6c9d299cf314aa4a23f39f176a9eca
+timeCreated: 1478633169
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - webRtcManager: {instanceID: 0}
+  - validator: {instanceID: 0}
+  - tiling: {fileID: 7200000, guid: 577158f1a1d7847cb93c561fef93af79, type: 3}
+  - diff: {fileID: 7200000, guid: 9c138f44fe2302e49986b2d6abde71e7, type: 3}
+  - targetGameObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

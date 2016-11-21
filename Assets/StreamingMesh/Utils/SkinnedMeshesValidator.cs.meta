@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d01b3d583445e4a4f8be476cc6730b65
+timeCreated: 1479595020
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - webRTCManager: {instanceID: 0}
+  - defaultShader: {fileID: 4800000, guid: 773a9526fc00fbd4f93eaaa7aaecb19e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
