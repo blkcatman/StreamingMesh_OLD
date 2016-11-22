@@ -568,7 +568,7 @@ public class SkinnedMeshesValidator : MonoBehaviour {
 			}
 		}
 		if(requestComplete != null) {
-#if UNITY_WEBGL
+#if UNITY_WEBGL || BROTLI_NO_COMPRESS
 			byte compress = 0x00;
 #else
 			byte compress = 0x01;
